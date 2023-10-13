@@ -1,4 +1,3 @@
-Certainly! Here's a README for the code you provided:
 
 # Voice-Activated Assistant with gTTS and Speech Recognition
 
